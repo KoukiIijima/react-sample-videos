@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import SearchBar from "./SearchBar";
+import VideoList from './VideoList'
 import "semantic-ui-css/semantic.min.css";
 import youtube from "../api/youtube";
 
@@ -17,10 +18,10 @@ console.log(response)
     this.setState({videos: response.data.items})
   };
   render() {
-    return (
+    return( 
       <div>
         <SearchBar onFormSubmit={this.onTermSubmit} />
-        I have {this.state.videos.length} videos.
+        <VideoList videos={this.state.videos} />
       </div>
     );
   }
