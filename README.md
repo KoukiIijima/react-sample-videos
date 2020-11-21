@@ -1,4 +1,4 @@
-# react-sample-videos
+# react-samples
 
 ## videos
 Youtube APIを使用し、検索した動画のリストを表示するアプリのサンプル
