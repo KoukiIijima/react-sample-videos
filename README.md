@@ -9,3 +9,7 @@ Wikipedia APIを使用したアプリのサンプル
 ## song
 Redux学習ようのアプリケーション
 音楽のリストを表示し、ユーザーが選択した音楽の情報をReduxで保持しておく
+
+## Blog
+Redux学習用のプロジェクト
+JsonPlaceHolderから取得したデモデータをJoinして表示する
