@@ -1,37 +1,10 @@
 {
   "streams": [
     {
-      "title": "a",
-      "description": "a",
-      "id": 1
-    },
-    {
-      "title": "a",
-      "description": "a",
-      "id": 2
-    },
-    {
-      "description": "test2",
-      "title": "test1",
-      "id": 3
-    },
-    {
-      "title": "test",
-      "description": "test",
+      "title": "でぼぼネット",
+      "description": "自分の投稿記事一覧をAPIで取得するため",
       "userId": "111563609581763305566",
-      "id": 4
-    },
-    {
-      "title": "create stream",
-      "description": "i wan to kink stream list",
-      "userId": "111563609581763305566",
-      "id": 5
-    },
-    {
-      "title": "dd",
-      "description": "djhyj",
-      "userId": null,
-      "id": 6
+      "id": 8
     }
   ]
 }
